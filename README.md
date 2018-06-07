@@ -103,8 +103,8 @@ grails 3.3.5 deployment in wildfly-13.0.0.Final, issue 404 - Not Found & context
   #### 08. Start WildFly-13.0.0.Final server from terminal
      some@somepc:/opt/wildfly13/bin $ ./standalone.sh 
   and browse link http://127.0.0.1:9990/console/index.html
-  then click on Deployment tab and follow the snap shoot below __
-  upload -> Next -> Finish
+  then click on Deployment tab then click on (+) button browse the **[grails-wildfly13-deployment-fix-0.1.war]** file and follow the snap shoot below __
+  upload done -> Next -> Finish
   ![Resources](https://github.com/javagrails/grails-wildfly13-deployment-fix/blob/master/mdres/gw-06.png)
   View Deployment
   ![Resources](https://github.com/javagrails/grails-wildfly13-deployment-fix/blob/master/mdres/gw-07.png)
