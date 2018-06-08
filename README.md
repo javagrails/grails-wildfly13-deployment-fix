@@ -121,5 +121,8 @@ grails 3.3.5 deployment in wildfly-13.0.0.Final, issue 404 - Not Found & context
   
   ![Resources](https://github.com/javagrails/grails-wildfly13-deployment-fix/blob/master/mdres/gw-09.png)
   
+  
+  you can also visit http://127.0.0.1:8080/grailsinwildfly/open/index
+  
   # Thank you all
   
