@@ -108,6 +108,7 @@ grails 3.3.5 deployment in wildfly-13.0.0.Final, issue 404 - Not Found & context
   upload done -> Next -> Finish
   
   ![Resources](https://github.com/javagrails/grails-wildfly13-deployment-fix/blob/master/mdres/gw-06.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjavagrails%2Fgrails-wildfly13-deployment-fix.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjavagrails%2Fgrails-wildfly13-deployment-fix?ref=badge_shield)
   
   View Deployment
   
@@ -126,3 +127,6 @@ grails 3.3.5 deployment in wildfly-13.0.0.Final, issue 404 - Not Found & context
   
   # Thank you all
   
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjavagrails%2Fgrails-wildfly13-deployment-fix.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjavagrails%2Fgrails-wildfly13-deployment-fix?ref=badge_large)
